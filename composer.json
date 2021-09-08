@@ -1,0 +1,10 @@
+{
+    "name": "woomai/telegram-anti-invite-link",
+    "description": "Delete all chat invite links in Telegram groups automatically.",
+    "type": "project",
+    "require": {
+        "php": ">=5.3",
+        "ext-json": "*"
+    },
+    "license": "WTFPL"
+}
